@@ -67,3 +67,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Never commit real credentials
+src/credentials.h
+
+# Arduino build files
+build/
+*.bin
+*.elf
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
