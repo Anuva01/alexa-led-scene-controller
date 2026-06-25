@@ -5,6 +5,10 @@ ESP32-S3 and SinricPro cloud bridge.
 
 > "Alexa, turn on Party Mode" → LEDs chase in sequence
 
+## Demo Videos
+- [All Lights Scene](https://github.com/Anuva01/alexa-led-scene-controller/blob/main/all%20lights.mp4)
+- [Movie Mode](https://github.com/Anuva01/alexa-led-scene-controller/blob/main/all%20lights.mp4)
+- [Party Mode Chase](https://github.com/Anuva01/alexa-led-scene-controller/blob/main/party%20mode%20.mp4)
 ---
 
 ## Scenes
